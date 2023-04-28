@@ -1,3 +1,3 @@
 # Devops-Resources
 
-This is the 90 days Devops roadmap to learn devops.
+This is the 100 days Devops roadmap to learn devops.
